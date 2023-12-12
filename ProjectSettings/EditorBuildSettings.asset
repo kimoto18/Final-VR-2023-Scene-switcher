@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/All Scenes/Grocery.unity
+    guid: 908d06b9d0e234d47b690655444741c1
+  - enabled: 1
+    path: Assets/All Scenes/Party.unity
+    guid: b227a006456b98a43a872f255692f9af
+  - enabled: 1
+    path: Assets/All Scenes/Therapy.unity
+    guid: 2c70ba586c9d3274b99b6445037e8679
+  - enabled: 1
+    path: Assets/All Scenes/Subway.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/All Scenes/Class.unity
+    guid: 770c08c6276bb1b449ce386f6a460ee2
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 8f180b5c2f85f0e449ef3a7b6dca2dbf, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b66fbe041919ed94d93b58f8788959f0, type: 2}
