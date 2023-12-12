@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 8daae623f1194884683dd1962b153a1d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sausage_1_1
+    100004: Sausage_1_2
+    100006: Sausage_2_1
+    100008: Sausage_2_2
+    100010: Sausage_3_1
+    100012: Sausage_3_2
+    100014: Sausage_4_1
+    100016: Sausage_4_2
+    100018: Sausage_5_1
+    100020: Sausage_5_2
+    100022: Sausage_6_1
+    100024: Sausage_6_2
+    100026: Sausage_6_3
+    100028: Sausage_6_4
+    100030: Sausage_7_1
+    100032: Sausage_7_2
+    100034: Sausage_7_3
+    100036: Sausage_8_1
+    100038: Sausage_8_2
+    100040: Sausage_8_3
+    400000: //RootNode
+    400002: Sausage_1_1
+    400004: Sausage_1_2
+    400006: Sausage_2_1
+    400008: Sausage_2_2
+    400010: Sausage_3_1
+    400012: Sausage_3_2
+    400014: Sausage_4_1
+    400016: Sausage_4_2
+    400018: Sausage_5_1
+    400020: Sausage_5_2
+    400022: Sausage_6_1
+    400024: Sausage_6_2
+    400026: Sausage_6_3
+    400028: Sausage_6_4
+    400030: Sausage_7_1
+    400032: Sausage_7_2
+    400034: Sausage_7_3
+    400036: Sausage_8_1
+    400038: Sausage_8_2
+    400040: Sausage_8_3
+    2300000: Sausage_1_1
+    2300002: Sausage_1_2
+    2300004: Sausage_2_1
+    2300006: Sausage_2_2
+    2300008: Sausage_3_1
+    2300010: Sausage_3_2
+    2300012: Sausage_4_1
+    2300014: Sausage_4_2
+    2300016: Sausage_5_1
+    2300018: Sausage_5_2
+    2300020: Sausage_6_1
+    2300022: Sausage_6_2
+    2300024: Sausage_6_3
+    2300026: Sausage_6_4
+    2300028: Sausage_7_1
+    2300030: Sausage_7_2
+    2300032: Sausage_7_3
+    2300034: Sausage_8_1
+    2300036: Sausage_8_2
+    2300038: Sausage_8_3
+    3300000: Sausage_1_1
+    3300002: Sausage_1_2
+    3300004: Sausage_2_1
+    3300006: Sausage_2_2
+    3300008: Sausage_3_1
+    3300010: Sausage_3_2
+    3300012: Sausage_4_1
+    3300014: Sausage_4_2
+    3300016: Sausage_5_1
+    3300018: Sausage_5_2
+    3300020: Sausage_6_1
+    3300022: Sausage_6_2
+    3300024: Sausage_6_3
+    3300026: Sausage_6_4
+    3300028: Sausage_7_1
+    3300030: Sausage_7_2
+    3300032: Sausage_7_3
+    3300034: Sausage_8_1
+    3300036: Sausage_8_2
+    3300038: Sausage_8_3
+    4300000: Sausage_8_1
+    4300002: Sausage_7_1
+    4300004: Sausage_6_1
+    4300006: Sausage_5_1
+    4300008: Sausage_4_1
+    4300010: Sausage_3_1
+    4300012: Sausage_2_1
+    4300014: Sausage_1_1
+    4300016: Sausage_1_2
+    4300018: Sausage_2_2
+    4300020: Sausage_3_2
+    4300022: Sausage_4_2
+    4300024: Sausage_5_2
+    4300026: Sausage_6_2
+    4300028: Sausage_7_2
+    4300030: Sausage_8_2
+    4300032: Sausage_8_3
+    4300034: Sausage_7_3
+    4300036: Sausage_6_3
+    4300038: Sausage_6_4
+    6400000: Sausage_1_1
+    6400002: Sausage_1_2
+    6400004: Sausage_2_1
+    6400006: Sausage_2_2
+    6400008: Sausage_3_1
+    6400010: Sausage_3_2
+    6400012: Sausage_4_1
+    6400014: Sausage_4_2
+    6400016: Sausage_5_1
+    6400018: Sausage_5_2
+    6400020: Sausage_6_1
+    6400022: Sausage_6_2
+    6400024: Sausage_6_3
+    6400026: Sausage_6_4
+    6400028: Sausage_7_1
+    6400030: Sausage_7_2
+    6400032: Sausage_7_3
+    6400034: Sausage_8_1
+    6400036: Sausage_8_2
+    6400038: Sausage_8_3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sausage
+    second: {fileID: 2100000, guid: 4816383b8a1250041a01ba729c04883a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
