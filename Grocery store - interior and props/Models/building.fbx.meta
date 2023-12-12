@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: d47f8968a57135b4b88cd8de4f0ab4db
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: door_2_r
+    100004: door_3_r
+    100006: door_l
+    100008: door_l.001
+    100010: door_shelf_1
+    100012: post
+    100014: room
+    100016: room.001
+    100018: room.004
+    100020: room_2.001
+    100022: stair
+    100024: window_big_1
+    100026: window_small_1
+    100028: wood_post_1
+    100030: celling_metall
+    400000: //RootNode
+    400002: door_2_r
+    400004: door_3_r
+    400006: door_l
+    400008: door_l.001
+    400010: door_shelf_1
+    400012: post
+    400014: room
+    400016: room.001
+    400018: room.004
+    400020: room_2.001
+    400022: stair
+    400024: window_big_1
+    400026: window_small_1
+    400028: wood_post_1
+    400030: celling_metall
+    2300000: door_2_r
+    2300002: door_3_r
+    2300004: door_l
+    2300006: door_l.001
+    2300008: door_shelf_1
+    2300010: post
+    2300012: room
+    2300014: room.001
+    2300016: room.004
+    2300018: room_2.001
+    2300020: stair
+    2300022: window_big_1
+    2300024: window_small_1
+    2300026: wood_post_1
+    2300028: celling_metall
+    3300000: door_2_r
+    3300002: door_3_r
+    3300004: door_l
+    3300006: door_l.001
+    3300008: door_shelf_1
+    3300010: post
+    3300012: room
+    3300014: room.001
+    3300016: room.004
+    3300018: room_2.001
+    3300020: stair
+    3300022: window_big_1
+    3300024: window_small_1
+    3300026: wood_post_1
+    3300028: celling_metall
+    4300000: door_3_r
+    4300002: door_shelf_1
+    4300004: door_l
+    4300006: door_2_r
+    4300008: window_big_1
+    4300010: window_small_1
+    4300012: door_l.001
+    4300014: room.001
+    4300016: stair
+    4300018: room
+    4300020: room_2.001
+    4300022: wood_post_1
+    4300024: post
+    4300026: room.004
+    4300028: celling_metall
+    6400000: celling_metall
+    6400002: door_2_r
+    6400004: door_3_r
+    6400006: door_l
+    6400008: door_l.001
+    6400010: door_shelf_1
+    6400012: post
+    6400014: room
+    6400016: room.001
+    6400018: room.004
+    6400020: room_2.001
+    6400022: stair
+    6400024: window_big_1
+    6400026: window_small_1
+    6400028: wood_post_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24
+    second: {fileID: 2100000, guid: f7f11c0ce5c981b488ea84e580966420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: celling
+    second: {fileID: 2100000, guid: 6602282b731ced84a925e4748db04543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: celling.001
+    second: {fileID: 2100000, guid: be23372e3b041144a874027b0ef6bb79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete
+    second: {fileID: 2100000, guid: 85ce49fdac43ab548858c6a7006dbaca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_1
+    second: {fileID: 2100000, guid: 6424a312aed35bb4186f19d26928c40d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_2
+    second: {fileID: 2100000, guid: e09b2c2e91f469245982e56711413bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 8b32064700572e640afdc13d2587837d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: post
+    second: {fileID: 2100000, guid: 5ed86e664d243dc49b7cd6a56501573d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof
+    second: {fileID: 2100000, guid: 3f81d7924e0038a41b7524204ff031e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room_window
+    second: {fileID: 2100000, guid: 95e00b47c41da2e47ae5f350434efbaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair
+    second: {fileID: 2100000, guid: 07229279c356e3a4c86c5fac95badf81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: 7bded92c785ed7748a9485d91e612591, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_2
+    second: {fileID: 2100000, guid: c4f8107404730fd4ca4453b7f6e26b09, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

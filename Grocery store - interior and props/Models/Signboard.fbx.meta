@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 6a6d4822aefcf9a40bc1a212ab20ab1a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Signboard_10_beer
+    100004: Signboard_11_fish
+    100006: Signboard_12_meat
+    100008: Signboard_13_cheese
+    100010: Signboard_14_sausage
+    100012: Signboard_15_exit
+    100014: Signboard_16_checkoutspunter
+    100016: Signboard_17_detergent
+    100018: Signboard_1_pastry
+    100020: Signboard_2_vegetablesfruits
+    100022: Signboard_3_cerealteasweets
+    100024: Signboard_4_coffechips
+    100026: Signboard_5_chipspasta
+    100028: Signboard_6_cannedfood
+    100030: Signboard_7_milk
+    100032: Signboard_8_water
+    100034: Signboard_9_soda
+    400000: //RootNode
+    400002: Signboard_10_beer
+    400004: Signboard_11_fish
+    400006: Signboard_12_meat
+    400008: Signboard_13_cheese
+    400010: Signboard_14_sausage
+    400012: Signboard_15_exit
+    400014: Signboard_16_checkoutspunter
+    400016: Signboard_17_detergent
+    400018: Signboard_1_pastry
+    400020: Signboard_2_vegetablesfruits
+    400022: Signboard_3_cerealteasweets
+    400024: Signboard_4_coffechips
+    400026: Signboard_5_chipspasta
+    400028: Signboard_6_cannedfood
+    400030: Signboard_7_milk
+    400032: Signboard_8_water
+    400034: Signboard_9_soda
+    2300000: Signboard_10_beer
+    2300002: Signboard_11_fish
+    2300004: Signboard_12_meat
+    2300006: Signboard_13_cheese
+    2300008: Signboard_14_sausage
+    2300010: Signboard_15_exit
+    2300012: Signboard_16_checkoutspunter
+    2300014: Signboard_17_detergent
+    2300016: Signboard_1_pastry
+    2300018: Signboard_2_vegetablesfruits
+    2300020: Signboard_3_cerealteasweets
+    2300022: Signboard_4_coffechips
+    2300024: Signboard_5_chipspasta
+    2300026: Signboard_6_cannedfood
+    2300028: Signboard_7_milk
+    2300030: Signboard_8_water
+    2300032: Signboard_9_soda
+    3300000: Signboard_10_beer
+    3300002: Signboard_11_fish
+    3300004: Signboard_12_meat
+    3300006: Signboard_13_cheese
+    3300008: Signboard_14_sausage
+    3300010: Signboard_15_exit
+    3300012: Signboard_16_checkoutspunter
+    3300014: Signboard_17_detergent
+    3300016: Signboard_1_pastry
+    3300018: Signboard_2_vegetablesfruits
+    3300020: Signboard_3_cerealteasweets
+    3300022: Signboard_4_coffechips
+    3300024: Signboard_5_chipspasta
+    3300026: Signboard_6_cannedfood
+    3300028: Signboard_7_milk
+    3300030: Signboard_8_water
+    3300032: Signboard_9_soda
+    4300000: Signboard_17_detergent
+    4300002: Signboard_16_checkoutspunter
+    4300004: Signboard_15_exit
+    4300006: Signboard_14_sausage
+    4300008: Signboard_13_cheese
+    4300010: Signboard_12_meat
+    4300012: Signboard_11_fish
+    4300014: Signboard_10_beer
+    4300016: Signboard_9_soda
+    4300018: Signboard_8_water
+    4300020: Signboard_7_milk
+    4300022: Signboard_6_cannedfood
+    4300024: Signboard_5_chipspasta
+    4300026: Signboard_4_coffechips
+    4300028: Signboard_3_cerealteasweets
+    4300030: Signboard_2_vegetablesfruits
+    4300032: Signboard_1_pastry
+    6400000: Signboard_10_beer
+    6400002: Signboard_11_fish
+    6400004: Signboard_12_meat
+    6400006: Signboard_13_cheese
+    6400008: Signboard_14_sausage
+    6400010: Signboard_15_exit
+    6400012: Signboard_16_checkoutspunter
+    6400014: Signboard_17_detergent
+    6400016: Signboard_1_pastry
+    6400018: Signboard_2_vegetablesfruits
+    6400020: Signboard_3_cerealteasweets
+    6400022: Signboard_4_coffechips
+    6400024: Signboard_5_chipspasta
+    6400026: Signboard_6_cannedfood
+    6400028: Signboard_7_milk
+    6400030: Signboard_8_water
+    6400032: Signboard_9_soda
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Signboard
+    second: {fileID: 2100000, guid: 78a38a50cca17184783cb67d96dcee55, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
